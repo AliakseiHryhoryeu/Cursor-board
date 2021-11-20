@@ -4,3 +4,5 @@
  + Clean JavaScript
  + SCSS
  + HTML/CSS
+
+![Board](/preview.png)
